@@ -1,0 +1,5 @@
+# See: https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html#boot-features-external-config-application-property-files
+
+welcome-text: This is a Spring Boot Spring MVC web application example
+
+logging.level.com.example.template: DEBUG
